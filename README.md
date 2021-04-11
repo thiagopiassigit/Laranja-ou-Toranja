@@ -13,7 +13,7 @@ pip install requirements.txt
 Para rodar execute o arquivo src/programa.py
 
 ## Diagrama
-<img src="./imagens/nn.svg">
+<img src="./imagens/diagrama.svg">
 
 ## Dados
 Você pode querer visualizar os dados clicando <a href="https://github.com/thiagopiassigit/Laranja-ou-Toranja/blob/main/src/dados.csv">aqui</a>
